@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=LED3-4
+Add Pin To Net: Unknown Pin: Pin U1-GND
+Change Net Name : Old Net Name=NetC24_1 New Net Name=RF_p
+Change Net Name : Old Net Name=NetC28_2 New Net Name=RF_n
+Added Differential Pair: Name=RF

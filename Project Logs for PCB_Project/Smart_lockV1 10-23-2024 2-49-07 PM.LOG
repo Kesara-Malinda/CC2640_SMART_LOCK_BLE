@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=Y2 Old Footprint=FC-12M 32.7680KA-A3 New Footprint=FC12M327680KAA5
+Change Component Comment : Designator=Y2 Old Comment=FC-12M 32.7680KA-A3 New Comment=FC-12M32.7680KA-A5
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "FC-12M 32.7680KA-A3"; UniqueID = "\NSMTZHQX" ("\NSMTZHQX")
+Change component parameters (AddParameter): Name = "Category"; Value = "Crystals"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SEIK/SEIK-S-A0008395574/SEIK-S-A0008395574-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/SEIK/SEIK-S-A0008395574/SEIK-S-A0008395574-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/12388/1407447-3083-12388132.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/12388/1407447-3083-12388132.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Crystal/Resonator Type"; Value = "PARALLEL - FUNDAMENTAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JESD-609 Code"; Value = "e4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Epson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FC-12M32.7680KA-A5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Frequency-Nom"; Value = "0.032768"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0.65, 10=0.506, 50=0.506, 100=0.455, 1000=0.39, 10000=0.366 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "52995"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "732-FC-12M32.768KAA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U1-GND
+Added Pin To Net: NetName=NetC23_2 Pin=Y2-1
+Added Pin To Net: NetName=NetC25_2 Pin=Y2-2

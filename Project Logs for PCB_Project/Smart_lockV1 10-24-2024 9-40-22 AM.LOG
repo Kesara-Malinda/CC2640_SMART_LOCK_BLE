@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=GND Pin=S1-1
+Removed Pin From Net: NetName=nReset Pin=S1-3
+Removed Pin From Net: NetName=GND Pin=S2-1
+Removed Pin From Net: NetName=nUSR_BTN1 Pin=S2-3
+Removed Pin From Net: NetName=nUSR_BTN1 Pin=S2-4
+Removed Pin From Net: NetName=GND Pin=S3-1
+Removed Pin From Net: NetName=nUSR_BTN2 Pin=S3-3
+Removed Pin From Net: NetName=nUSR_BTN2 Pin=S3-4
+Removed Pin From Net: NetName=GND Pin=S4-1
+Removed Pin From Net: NetName=nUSR_BTN3 Pin=S4-3
+Removed Pin From Net: NetName=nUSR_BTN3 Pin=S4-4
+Change Component Footprint: Designator=S1 Old Footprint=FSM-SWITCH New Footprint=EL23520JLFS
+Change Component Footprint: Designator=S2 Old Footprint=FSM-SWITCH New Footprint=EL23520JLFS
+Change Component Footprint: Designator=S3 Old Footprint=FSM-SWITCH New Footprint=EL23520JLFS
+Change Component Footprint: Designator=S4 Old Footprint=FSM-SWITCH New Footprint=EL23520JLFS
+Change Component Comment : Designator=S1 Old Comment=4-1437565-1 New Comment=EL2_35_20J_LFS
+Change Component Comment : Designator=S2 Old Comment=4-1437565-1 New Comment=EL2_35_20J_LFS
+Change Component Comment : Designator=S3 Old Comment=4-1437565-1 New Comment=EL2_35_20J_LFS
+Change Component Comment : Designator=S4 Old Comment=4-1437565-1 New Comment=EL2_35_20J_LFS
+Change component parameters: Designator = "S1" ("S1"); Footprint = "FSM-SWITCH"; UniqueID = "\KIIJJCBR" ("\KIIJJCBR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/3758/el2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EL2 35 20J LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S2" ("S2"); Footprint = "FSM-SWITCH"; UniqueID = "\UMVIYAOF" ("\UMVIYAOF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/3758/el2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EL2 35 20J LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S3" ("S3"); Footprint = "FSM-SWITCH"; UniqueID = "\BPOTQVJM" ("\BPOTQVJM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/3758/el2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EL2 35 20J LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S4" ("S4"); Footprint = "FSM-SWITCH"; UniqueID = "\MHUEEZIE" ("\MHUEEZIE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/3758/el2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EL2 35 20J LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=nReset Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=nUSR_BTN2 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=nUSR_BTN2 Pin=S2-4
+Added Pin To Net: NetName=nUSR_BTN3 Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-3
+Added Pin To Net: NetName=nUSR_BTN3 Pin=S3-4
+Added Pin To Net: NetName=nUSR_BTN1 Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-3
+Added Pin To Net: NetName=nUSR_BTN1 Pin=S4-4
+Add Pin To Net: Unknown Pin: Pin U1-GND
